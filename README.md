@@ -1,5 +1,5 @@
 # Java Card Game Lab
-This app models a baisc card game in Java
+This app models a basic card game in Java
 
 ## Objectives
 * Build a simple card game app using TDD, in a paired programming environment
